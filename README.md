@@ -151,7 +151,7 @@ spécifiquement pour le module LILYGO T-Wrist E-Paper 1.54".
 
 Les fichiers STL sont disponibles sur **Printables** :
 
-> 🔗 **[Télécharger le boîtier sur Printables](https://www.printables.com/model/TON_ID)**
+> 🔗 **[Télécharger le boîtier sur Printables](https://www.printables.com/model/1608183-reiki-timer-case-t-wrist-e-paper-154-inch-display)**
 
 ### Paramètres d'impression recommandés
 
