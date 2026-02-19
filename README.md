@@ -180,9 +180,8 @@ Les fichiers STL sont disponibles sur **Printables** :
 
 ### Photos
 
-![PIC1](photos/PIC1.jpg)
-![Boîtier ouvert](photos/PIC2.jpg)
-![Assemblé](photos/PIC3.jpg)
+![PIC2](photos/PIC2.JPG)
+
 
 ---
 
