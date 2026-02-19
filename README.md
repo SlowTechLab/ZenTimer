@@ -43,21 +43,6 @@ Ce firmware est conçu **exclusivement** pour le module :
 | Batterie | Li-Ion via connecteur JST 1.25mm 2P |
 | Programmation | Via **T-U2T** (adaptateur USB-UART, vendu séparément ou en bundle) |
 
-### Pinout utilisé
-
-| Signal | GPIO |
-|---|---|
-| Bouton utilisateur | 35 |
-| Moteur vibrant (PWM) | 4 |
-| Power Enable | 5 |
-| ADC batterie | 34 |
-| EPD — CS | 15 |
-| EPD — DC | 2 |
-| EPD — RESET | 17 |
-| EPD — BUSY | 16 |
-| SPI — SCK | 14 |
-| SPI — MOSI (DIN) | 13 |
-
 ---
 
 ## 📦 Dépendances
