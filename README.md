@@ -178,9 +178,9 @@ Les fichiers STL sont disponibles sur **Printables** :
 
 ### Photos
 
-![Vue de face](photos/device_front.jpg)
-![Boîtier ouvert](photos/device_back.jpg)
-![Assemblé](photos/device_in_case.jpg)
+![PIC1](photos/PIC1.jpg)
+![Boîtier ouvert](photos/PIC2.jpg)
+![Assemblé](photos/PIC3.jpg)
 
 ---
 
