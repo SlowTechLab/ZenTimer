@@ -4,7 +4,7 @@ Firmware multi-modes pour accompagner tes pratiques bien-être et sportives,
 conçu pour le module **LILYGO T-Wrist E-Paper 1.54"** (ESP32 + écran e-paper
 200×200 + moteur vibrant intégré + 1 bouton utilisateur).
 
-![PIC1](photos/PIC1.jpg)
+![PIC1](photos/PIC1.JPG)
 
 ---
 
